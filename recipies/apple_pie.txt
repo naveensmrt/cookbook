@@ -1,1 +1,7 @@
 applepie
+pastry
+butter
+flour
+sugar
+apples
+cinnamon
