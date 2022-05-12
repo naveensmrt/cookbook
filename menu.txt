@@ -3,4 +3,5 @@ cheese cake
 spaghetti
 Death by choclate
 PannerPizza
-pineapple Icecream
+<<<<<<< Updated upstream
+pineapple icecream
